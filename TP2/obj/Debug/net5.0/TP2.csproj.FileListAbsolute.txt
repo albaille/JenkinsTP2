@@ -1,0 +1,16 @@
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.exe
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.deps.json
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.dll
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\ref\TP2.dll
+C:\workspace\workspace_python\TP2\bin\Debug\net5.0\TP2.pdb
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.dll
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\ref\TP2.dll
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.pdb
+C:\workspace\workspace_python\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
